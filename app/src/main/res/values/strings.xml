@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bruh</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="Imie">Imie</string>
+    <string name="n_imie_nazwisko">Nicholas \n Fajer</string>
+</resources>
